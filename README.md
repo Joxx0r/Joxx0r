@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joxx0r -> Technical Director YAGER
+- 👋 Hi, I’m @Joxx0r
 - 👀 I’m interested in various of programming topics
 - 🌱 UE5
-- 📫 joakim.ohlander@yager.de / @joxxor on twitter.
+- 📫 joxxor@gmail.de / @joxxor on twitter.
